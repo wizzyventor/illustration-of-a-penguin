@@ -63,12 +63,6 @@
     cursor: not-allowed;
  }
 
- @media (max-width: 768px) {
-    .penguin {
-        width: 200px;
-        height: 200px;
-        margin-top: 50px;
- }
  .penguin-head {
     width: 50%;
     height: 45%;
